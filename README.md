@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebasruggero
-- 👀 I’m interested in Psychology , Programming Software , Data Science and Running ;).
-- 🌱 I’m currently learning Psychology and Software Development.
+- 👀 I’m interested in Psychology Cognitive, Programming Software , AI, Data Science and Running ;).
+- 🌱 I’m currently studyng Data Science at CAECE University in Argentina and love everything related to cognitive science and AI.
 - 💞️ I’m looking to collaborate on some project who can make a better life for people.
 - 📫 How to reach me ? By github
 
